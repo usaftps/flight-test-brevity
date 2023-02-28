@@ -12,7 +12,7 @@ This guide is intended to accelerate the communications training of flight teste
 
 ## Feedback
 
-This guide is a living document. All feedback is welcomed, and the most effective means of providing it is to create an "Issue" at <https://github.com/cooknl/flight-test-brevity/issues>
+This guide is a living document. All feedback is welcomed, and the most effective means of providing it is to create an "Issue" at <https://github.com/usaftps/flight-test-brevity/issues>
 
 ## Change Log
 

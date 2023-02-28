@@ -4,10 +4,10 @@ project:
 
 book:
   title: "Flight Test Brevity"
-  author: "Nathan Cook"
-  date: "2/18/2023"
+  author: "Nathan Cook & USAF TPS"
+  date: "2/27/2023"
   cover-image: /images/cover.png
-  repo-url: https://github.com/cooknl/flight-test-brevity
+  repo-url: https://github.com/usaftps/flight-test-brevity
   repo-actions: [issue]
   chapters:
     - index.qmd
@@ -28,6 +28,3 @@ format:
     toc-depth: 2
 
 license: "CC BY-SA"
-
-
-
